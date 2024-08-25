@@ -1,0 +1,168 @@
+*{
+    margin: 0px;
+    padding: 0px ;
+}
+nav{padding: auto;
+    margin: 0px 10px;
+    width: 100%;
+    height: 50px;
+    word-spacing: 10px;
+    
+}
+.all{
+    display: inline-block;
+    margin-left: 80px;
+    width: 60px;
+    height: 20px;
+    background-color:#e3dede;
+    padding: auto;
+    border-radius: 5px;
+}
+#yicon{
+    font-size: 20px;
+    margin-top: 10px;
+    display: ;
+}
+.youtube{
+    margin-top:;
+    display:inline-block;
+}
+.search{
+    height: 50px;
+    width: 600px;
+    border-radius: 30px;
+    border: 2px solid gray;
+    margin-left: 300px;
+}
+#searchicon{
+    margin: 0px;
+}
+#threedot{
+    margin-left: 300px ;
+}
+.signin{
+    border: 1px solid black;
+    width: 60px;
+    height: 20px;
+    border-radius: 10px;
+}
+.signin,a{
+    color: blue;
+    text-decoration: none;
+}
+.container{
+    width: 100%;
+    height:1000px; 
+    scroll-behavior: auto;
+}
+.menu{
+    width: 150px;
+    height: 250px;
+    position:fixed;
+    clear:;
+    
+}
+li{
+    list-style: none;
+    position: relative;
+    left: 20px;
+}
+li.home{
+    width: 100px;
+    height: 20px;
+    background-color: lightgray;
+    text-align:center;
+    border-radius:8px;
+    
+}
+.vdomain{
+    width: 100%;
+    height: 2000px;
+    scroll-behavior:1px ;
+    background-color: ;
+    margin-left: 150px;
+    
+}
+{
+}
+.vdo{
+    display:inline-block;
+    position: relative;
+    top: 0px;
+    left: 100px;
+    border-radius: 10px;
+    position: relative;
+    z-index: -10px;
+    
+}
+#vdo1{
+
+
+}
+.pogoicon{
+    width: 45px;
+    height: 45px;
+    display:;
+    border-radius:100px ;
+    background-color: lightgray;
+    
+}
+.vdo1p{
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    display: inline-block;
+    position: relative;
+    margin-top: -50px;
+    margin-left: 50px;
+    
+}
+#vdo2{
+    position: relative;
+    top:5px;
+    margin-left:30px ;
+    
+
+}
+.sharumicon{
+    width: 45px;
+    height: 45px;
+    display:;
+    border-radius:100px ;
+    background-color: lightgray;
+    padding: auto;
+}
+.sharumicon img{
+    border-radius: 40px;
+    margin: auto;
+}
+.vdo2p{
+margin-top: -30px;
+margin-left: 50px;
+text-align: center;
+}
+
+#vdo3{
+    position: relative;
+    top: -30px;
+    margin-left: 30px;
+
+}
+#vdo3 img{
+    border-radius:30px ;
+}
+
+.vdo3p{
+    margin-top: -30px;
+    margin-left: 50px;
+    text-align: center;    
+}
+#vdo4{
+    margin: 0px 15px;
+}
+.image{
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 120px;
+}
